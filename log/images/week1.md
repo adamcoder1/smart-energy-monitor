@@ -22,4 +22,4 @@ Ohm's Law used to calculate real component value.
 Breadboard rows are internally connected — same row number = connected.
 
 ### Photo
-![Week 1 LED working](images/week1-led.jpeg)
+![Week 1 LED working](../log/images/week1-led.jpeg)
