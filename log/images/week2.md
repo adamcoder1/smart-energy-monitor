@@ -30,4 +30,5 @@ will show when an actual device is connected to the screw terminals.
 
 ### Photos
 ![Sensor wired](images/week2-sensor-wired.jpg)
-![Serial monitor](images/week2-serial-monitor.jpg)
+<img width="748" height="352" alt="image" src="https://github.com/user-attachments/assets/9eba55f6-5d98-4268-b8b9-26894b1d4bcd" />
+
